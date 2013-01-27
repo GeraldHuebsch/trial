@@ -1,1 +1,2 @@
 bar initial
+bar 2
